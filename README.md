@@ -1,6 +1,6 @@
 # Pizza Sales Analysis
 
-- A data set on the arrest of suspects in different locations and at different times of the day.
+- The analysis on pizza sales to uncover the actionable insights and improve inventory management to enhance marketting strategies for pizza.
 
 ## Table of content
 - [Project_Overview](#project-overview)
